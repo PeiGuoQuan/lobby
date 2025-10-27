@@ -1,7 +1,11 @@
 lobby
 =======
 ![Test And Publish](https://github.com/mikedh/lobby/workflows/Test%20Then%20Publish/badge.svg?branch=master) [![PyPI version](https://badge.fury.io/py/lobby.svg)](https://badge.fury.io/py/lobby)
+
+## Acknowledgement
 This product includes software developed by <mikedh> under the MIT License.
+
+## What we changed
 Modifications by <PeiGuoQuan>, <2025>: 
 - Implemented Post-Only reprice
 - Fixed iceberg id reuse bug
